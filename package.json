@@ -1,0 +1,24 @@
+{
+  "name": "rickrollbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daantje1/rickrollbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daantje1/rickrollbot/issues"
+  },
+  "homepage": "https://github.com/daantje1/rickrollbot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "ytdl-core-discord": "^1.2.5"
+  }
+}
